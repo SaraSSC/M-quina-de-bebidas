@@ -1,0 +1,10 @@
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\bin\Debug\MaquinaDeBebidas.exe.config
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\bin\Debug\MaquinaDeBebidas.exe
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\bin\Debug\MaquinaDeBebidas.pdb
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\obj\Debug\MaquinaDeBebidas.csproj.AssemblyReference.cache
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\obj\Debug\MaquinaDeBebidas.FormMaquinaDeBebidas.resources
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\obj\Debug\MaquinaDeBebidas.Properties.Resources.resources
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\obj\Debug\MaquinaDeBebidas.csproj.GenerateResource.cache
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\obj\Debug\MaquinaDeBebidas.csproj.CoreCompileInputs.cache
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\obj\Debug\MaquinaDeBebidas.exe
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\MaquinaDeBebidas\obj\Debug\MaquinaDeBebidas.pdb
